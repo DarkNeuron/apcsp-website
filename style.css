@@ -1,0 +1,148 @@
+h1{
+  text-align: center;
+  font-size: 45px;
+}
+
+.navigation{
+  padding: 0px 0px;
+  position: sticky;
+  text-align: center;
+  width: 100%;
+}
+
+.navigation a{
+  background: #0f6191;
+  border: 1px solid #0f6191;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 7px;
+  text-decoration: none;
+}
+
+.navigation a:hover{
+  background: white;
+  border: 1px solid #0f6191;
+  color: #0f6191;
+}
+
+a{
+  font-family: Alegreya Sans SC;
+  background: #ff0000;
+  border: 1px solid #ff0000;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 7px;
+  text-decoration: none
+}
+
+a:hover{
+  background: white;
+  border: 1px solid #ff0000;
+  color: #ff0000;
+}
+
+.myface{
+  float: right;
+}
+
+.titlebg{
+  background-image: linear-gradient(to bottom right, rgb(0, 73, 156), rgb(69, 202, 255));
+}
+
+.bg{
+  height: 1100px;
+  background-image: linear-gradient(to bottom right, rgb(42, 0, 156), rgb(0, 82, 150));
+}
+
+.name{
+  text-align: left;
+  padding: 15px 10px;
+  font-family: "Raleway";
+  color: #bbbbbb
+}
+
+li{
+  padding: 10px;
+  font-family: Noto Sans JP;
+  color: #e2e2e2
+}
+
+p{
+  padding: 10px;
+  font-family: Noto Sans JP;
+  color: #e2e2e2
+}
+
+h3{
+  font-family: "Raleway";
+  color: #ffd3d3;
+  padding: 10px;
+}
+
+h2{
+  font-family: "Raleway";
+  color: #e798ff;
+  padding: 10px;
+}
+
+img{
+  float: right;
+  border: 10px;
+  border-color: black;
+}
+
+.foodheader{
+  padding: 10px;
+  position: relative;
+  font-family: "Raleway";
+  color: white;
+  font-size: 30px;
+}
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Moc{
+  position: relative;
+}
+
+iframe{
+  position: right;
+}
+
+.booklinkuno{
+ float: right;
+}
+
+.booklinkdos{
+  float: right;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #aaa;
+}
+
+tr:nth-child(odd) {
+ background-color: #aaa;
+}
